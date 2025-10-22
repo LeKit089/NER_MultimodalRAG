@@ -1,0 +1,21 @@
+[2025-04-14 16:37:49,733][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 16:37:49,745][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 16:44:27,934][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 16:44:27,936][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 16:47:14,334][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 16:47:14,336][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 16:57:57,135][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 16:57:57,137][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 17:02:16,047][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 17:02:16,049][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 17:02:42,351][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 17:02:42,353][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 17:15:19,240][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 17:15:19,249][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 21:44:36,540][__main__][INFO] - [GPU 0] Loading html vocab from D:\DL\TR\TSR\vocab\vocab_html.json
+[2025-04-14 21:44:36,543][__main__][INFO] - [GPU 0] Loading training dataset
+[2025-04-14 22:12:32,652][__main__][INFO] - [GPU 0] Loading validation dataset
+[2025-04-14 22:37:06,858][__main__][INFO] - [GPU 0] Loading model ...
+[2025-04-14 22:37:07,826][__main__][INFO] - [GPU 0] Total parameters: 28.73M
+[2025-04-14 22:37:07,827][__main__][INFO] - [GPU 0] Loading trainer ...
+[2025-04-14 22:37:08,398][__main__][INFO] - [GPU 0] Training starts ...

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b411df05-aab8-4506-b4cf-6f82fd69a97a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FlagEmbedding/FlagEmbedding/llm_embedder/data/deepspeed/stage2-offload.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlagEmbedding/FlagEmbedding/llm_embedder/data/deepspeed/stage2-offload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlagEmbedding/FlagEmbedding/llm_embedder/data/deepspeed/stage2.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlagEmbedding/FlagEmbedding/llm_embedder/data/deepspeed/stage2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/new/data/deepspeed/stage2.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/new/data/deepspeed/stage2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/old/data/deepspeed/stage2.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/old/data/deepspeed/stage2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/old/data/deepspeed/stage2_small.json" beforeDir="false" afterPath="$PROJECT_DIR$/FlagEmbedding/Long_LLM/activation_beacon/old/data/deepspeed/stage2_small.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Fig1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Fig2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/milvus/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/milvus/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/milvus/milvus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/milvus/milvus.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/KGdemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/KGdemo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/ragas_demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/main_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/ACFPN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/backbone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/beit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/c2f_DLKA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/dataset_mapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/deit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/icdar_evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/layers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/layers/activations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/layers/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/mycheckpointer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/mytrainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/table_evaluation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/table_evaluation/data_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/ditod/table_evaluation/evaluate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/icdar19_configs/Base-RCNN-FPN.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/icdar19_configs/cascade/cascade_dit_base.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/icdar19_configs/cascade/cascade_dit_large.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/icdar19_configs/maskrcnn/maskrcnn_dit_base.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/icdar19_configs/maskrcnn/maskrcnn_dit_large.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/inference_pdf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/train_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/detect_demo/table_detection/推理命令行.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/doc_parse_demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/doc_parse_demo/main_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/cpm_convertor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/data_preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/hybrid_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/main_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/sidebar_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/summary_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/system_prompt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/pages/qa_demo/ui_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot_web_demo/streamlit_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/data_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/data_preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/img_convertor/base_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/img_convertor/base_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/img_convertor/cpm_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/img_convertor/cpm_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/img_convertor/internvl_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/img_convertor/internvl_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/system_prompt.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="337mo7iXZ6VhGKLJKYF3RcFWMKr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b411df05-aab8-4506-b4cf-6f82fd69a97a" name="Default Changelist" comment="" />
+      <created>1758676656810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758676656810</updated>
+    </task>
+    <servers />
+  </component>
+</project>
